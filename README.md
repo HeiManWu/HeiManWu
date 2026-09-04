@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Ellie</h1>
+<h1 align="center">Hi 👋, I'm Ellie 🐸</h1>
 <h3 align="center">An aspiring SOC analyst. Has solid background in biology. Love anything related to technology and engineering.</h3>
 
-- 🔭 I’m currently working on **SOC internship**
+- 🔭 I’m currently working on: **a SOC internship**
 
-- 🌱 I’m currently learning **C, SOC skills, hardware**
+- 🌱 I’m currently learning: **C, SOC skills, hardware**
 
 - 💬 Ask me about **Fiji (biology image analysis application)**
 
-- 📫 How to reach me **ellie.hm.wu@outlook.com**
+- 📫 How to reach me: **ellie.hm.wu@outlook.com**
 
-- ⚡ Fun fact **I make a really good tiramisu**
+- ⚡ Fun fact: **I make a really good tiramisu and knitted jumper**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
